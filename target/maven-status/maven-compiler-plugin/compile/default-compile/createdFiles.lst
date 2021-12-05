@@ -1,0 +1,12 @@
+com\techempower\handlers\AdminHandler.class
+com\techempower\Application.class
+com\techempower\entities\User.class
+com\techempower\entities\UserToGroup.class
+com\techempower\entities\Group.class
+com\techempower\entities\UserToLogin.class
+com\techempower\handlers\HomeHandler.class
+com\techempower\Server.class
+com\techempower\handlers\UserHandler.class
+com\techempower\entities\User$UserView.class
+com\techempower\entities\DataEntity.class
+com\techempower\Security.class
